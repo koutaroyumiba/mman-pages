@@ -268,6 +268,11 @@ Every entry should name the affected topic. Describve what a reader needs to kno
 - `functions/printf`: document common conversions, return values, and format string hazards
 ```
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for page standards, branch and commit
+conventions, pull-request requirements, and the release workflow.
+
 ## License
 
 Manual pages, documentation, and code examples in this repository are licensed
