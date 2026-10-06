@@ -268,6 +268,13 @@ Every entry should name the affected topic. Describve what a reader needs to kno
 - `functions/printf`: document common conversions, return values, and format string hazards
 ```
 
+## License
+
+Manual pages, documentation, and code examples in this repository are licensed
+under the [MIT License](LICENSE), unless a file states otherwise. By
+contributing, you agree that your contribution will be licensed under the same
+terms; see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Future Automation
 
 Could automate:
