@@ -72,8 +72,7 @@ Add only the optional sections relevant to the subject. In particular:
 - use ordinary relative Markdown links rather than Obsidian syntax; and
 - avoid front matter, raw HTML, scripts, remote images, and executable content.
 
-See [PAGES.md](PAGES.md) and the [page standard](README.md#page-standard) for the
-full editorial and compatibility policies.
+See the [page standard](README.md#page-standard) for the full editorial and compatibility policies.
 
 ## Changelog
 
